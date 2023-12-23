@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">bestfriends</string>
+
+    <string name="login_hint_email">아이디를 입력하세요.</string>
+    <string name="login_hint_pw">비밀번호를 입력하세요.</string>
+    <string name="loginSns">sns 계정으로 로그인</string>
+    <string name="join">회원가입</string>
+    <string name="find_pw">비밀번호 찾기</string>
+    <string name="find_id">아이디 찾기</string>
+    <string name="login">로그인</string>
+</resources>
